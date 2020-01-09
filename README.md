@@ -1,2 +1,2 @@
 # ceng3003_Algorithms_Project
-Project of an (AVL tree, Doubly Linked List) for Design and Analysis of Algorithms Course 
+Project using an (AVL tree, Doubly Linked List) to test the speed of (searching specific element) for each algorithm and print it back in ms.
